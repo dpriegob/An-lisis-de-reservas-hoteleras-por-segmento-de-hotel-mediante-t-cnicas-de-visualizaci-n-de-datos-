@@ -1,4 +1,4 @@
-# Análisis de reservas hoteleras por segmento de hotel mediante técnicas de visualización de datos
+# HotelSegmentBoards - Análisis de reservas hoteleras por segmento de hotel mediante técnicas de visualización de datos
 Se trata del repositorio asociado al TFM, el cual contiene los ficheros relacionados con el proyecto.
 
 # Contenido del repositorio:
@@ -7,3 +7,4 @@ Se trata del repositorio asociado al TFM, el cual contiene los ficheros relacion
   * procesar fichero.ipynb -> Fichero con el código implementado en Python para el tratamiento de los ficheros .xlsx.
   * bookings_processed.xlsx -> Fichero xlsx generado tras la ejecución del código el cual contiene las reservas de hotel con las pertinentes transformaciones de los datos.
   * hotels_processed.xlsx -> Fichero xlsx generado tras la ejecución del código el cual contiene el listado de hoteles con las pertinentes transformaciones de los datos.
+  * Justificación implementación.pdf -> Documento que contiene la justificación detallada de la implementación.
