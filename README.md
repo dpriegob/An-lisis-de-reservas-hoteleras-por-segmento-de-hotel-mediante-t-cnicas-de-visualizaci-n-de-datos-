@@ -1,4 +1,4 @@
-# HotelSegmentBoards - Análisis de reservas hoteleras por segmento de hotel mediante técnicas de visualización de datos
+# HotelSegmentBoard - Análisis de reservas hoteleras por segmento de hotel mediante técnicas de visualización de datos
 Se trata del repositorio asociado al TFM, el cual contiene los ficheros relacionados con el proyecto.
 
 # Contenido del repositorio:
